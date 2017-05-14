@@ -1,0 +1,32 @@
+{
+  "name": "fuse-box-npm-package-seed",
+  "version": "1.0.0",
+  "description": "Get started with creating npm package using FuseBox module loader and bundler",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node ./fuse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuse-box/fuse-box-vue-seed.git"
+  },
+  "keywords": [
+    "fuse-box",
+    "npm",
+    "npm package",
+    "TypeScript"
+  ],
+  "author": "devmondo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuse-box/fuse-box-npm-package-seed/issues"
+  },
+  "homepage": "https://github.com/fuse-box/fuse-box-npm-package-seed#readme",
+  "devDependencies": {
+    "fuse-box": "^2.0.0",
+    "typescript": "^2.3.0"
+  },
+  "dependencies": {
+    "fuse-box": "2.0.0"
+  }
+}
