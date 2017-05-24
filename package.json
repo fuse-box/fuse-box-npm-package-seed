@@ -1,6 +1,6 @@
 {
   "name": "fuse-box-npm-package-seed",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get started with creating npm package using FuseBox module loader and bundler",
   "main": "dist/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/fuse-box/fuse-box-npm-package-seed#readme",
   "devDependencies": {
-    "fuse-box": "^2.0.0",
+    "fuse-box": "^2.1.0-beta.1",
     "typescript": "^2.3.0"
   }
 }
