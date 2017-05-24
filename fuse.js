@@ -4,8 +4,9 @@ const fuse = FuseBox.init({
     homeDir: "./src",
     package: {
         name: 'fuse-box-npm-package-seed',
-        main: 'src/index.ts',
+        main: 'index.ts'
     },
+		globals: {'fuse-box-npm-package-seed': '*'},
     output: "dist/$name.js",
 });
 
