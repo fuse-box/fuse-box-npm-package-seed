@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/fuse-box/fuse-box-npm-package-seed#readme",
   "devDependencies": {
-    "fuse-box": "^2.1.0-beta.1",
+    "fuse-box": "^2.2.31",
     "typescript": "^2.3.0"
   }
 }
